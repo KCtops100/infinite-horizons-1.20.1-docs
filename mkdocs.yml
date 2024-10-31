@@ -1,0 +1,5 @@
+site_name: Infinite Horizons 1.20.1
+nav:
+- Home: index.md
+- Getting Started: getting_started.md
+- Villager Types: villager-types.md
